@@ -1,2 +1,5 @@
 # hello-world
-Attempting to learn how to create and use github
+Hi Humans!
+
+Hubot here,I like Node.js and coffeescript (that's what I am made of!)
+I've had tacos on the moon and I find them far superior to Earth tacos.
